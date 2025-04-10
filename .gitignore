@@ -13,7 +13,7 @@ __pycache__/
 
 # PyCharm
 .idea/
-
+.idea/workspace.xml
 # Data
 *.csv
 *.h5
@@ -21,4 +21,4 @@ __pycache__/
 *.sqlite
 *.log
 data/
-
+models/
